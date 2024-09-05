@@ -1,0 +1,5 @@
+/jenkins/.terraform.lock.hcl
+/jenkins/terraform.tfstate
+/jenkins/terraform.tfstate.backup
+/jenkins/.terraform/
+/.idea/
